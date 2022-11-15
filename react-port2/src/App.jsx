@@ -1,7 +1,7 @@
 import React from 'react'
 import Intro from './components/Intro'
 import Contact from './components/Contact'
-import Timeline from './components/Timeline'
+import Journey from './components/Journey'
 import Portfolio from './components/Portfolio'
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Intro />
       <Portfolio />
-      <Timeline />
+      <Journey />
       <Contact />
     </div>
   )
