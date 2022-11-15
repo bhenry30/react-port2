@@ -5,7 +5,7 @@ import PortItem from './PortItem'
 function Portfolio() {
     return (
         <div className='flex flex-col md:flex-row justify-center items-center'>
-            <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-12'>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
                 {portfolio.map(project => (
                     <PortItem 
                     img= {project.img} 
