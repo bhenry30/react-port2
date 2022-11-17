@@ -5,7 +5,7 @@ import Title from './Title';
 
 function Journey() {
     return (
-        <div className='flex flex-col md:flex-row justify-center mt-16 mb-4'>
+        <div className='flex flex-col md:flex-row justify-center mt-32 mb-4'>
            <div className='w-full md:w-7/12'>
                 <Title>Journey</Title>
                 {journey.map(journeyPiece => (

@@ -5,7 +5,10 @@ module.exports = {
     theme: {
       extend: {
         fontFamily: {
-            inter: ['inter', 'serif'],
+            librefranklin: ['libre franklin', 'serif'],
+        },
+        colors: {
+            'gunmetal': '#27373F'
         }
       },
     },
