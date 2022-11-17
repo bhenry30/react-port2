@@ -2,8 +2,8 @@ export default [
     {
         title: 'Spraycan',
         img:'./assets/photos/Homepage_screenshot_3.png',
-        stack: ['JavaScript', 'Handlebars', 'MySQL', 'node.js'],
-        link: 'https://enigmatic-cliffs-72783.herokuapp.com/'
+        stack: ['JavaScript', 'Handlebars', 'MySQL', 'Node.js'],
+        link: 'https://github.com/bhenry30/spray-can/'
     },
     {
         title: 'Holly',
