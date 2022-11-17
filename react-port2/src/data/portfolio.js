@@ -7,7 +7,7 @@ export default [
     },
     {
         title: 'Holly',
-        img:'./assets/photos/holly_screenshot.png',
+        img:'./assets/photos/hollyV2.png',
         stack: ['JavaScript', 'Materialize', 'HTML'],
         link: 'https://github.com/bhenry30/Holly2'
     },
